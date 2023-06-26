@@ -631,13 +631,16 @@ h4 {
 }
 /*# sourceMappingURL=app.css.map */
 .logo {
-  width: 10px;
-  height: 10px;
-  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 100px;
+  position: absolute;
+  bottom: 600px;
+  right: 1%;
 }
 
 .container {
   position: relative;
   background-image: url(GrupoCero/build/img/logoo.webp);
+  
   background-size: cover;
 }
